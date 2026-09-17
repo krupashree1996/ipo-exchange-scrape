@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T19:08:19Z",
+ "generatedAt": "2026-09-17T01:43:13Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -2421,7 +2421,50 @@
         "DYN_ORDER": "6"
        }
       ],
-      "IPONO_2": [],
+      "IPONO_2": [
+       {
+        "Price": "79.00",
+        "Quantity": "50514264",
+        "Price1": "79",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "80.00",
+        "Quantity": "50392156",
+        "Price1": "80",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "81.00",
+        "Quantity": "50283220",
+        "Price1": "81",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "82.00",
+        "Quantity": "50250646",
+        "Price1": "82",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "83.00",
+        "Quantity": "50168588",
+        "Price1": "83",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "84.00",
+        "Quantity": "50128182",
+        "Price1": "84",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "Cut-off",
+        "Quantity": "40651106",
+        "Price1": "9999",
+        "process_dttm": "9/16/2026 17:03:16"
+       }
+      ],
       "IPONO_3": [
        {
         "Price": "79.00",
@@ -2486,7 +2529,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1",
@@ -2495,7 +2538,7 @@
         "col4": "180670",
         "col5": "0.0071",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(a)",
@@ -2504,7 +2547,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(b)",
@@ -2513,7 +2556,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(c)",
@@ -2522,7 +2565,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(d)",
@@ -2531,16 +2574,16 @@
         "col4": "180670",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors (NIIs)",
         "col3": "18987342",
-        "col4": "7196896",
-        "col5": "0.3790",
+        "col4": "7214340",
+        "col5": "0.3800",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1",
@@ -2549,7 +2592,7 @@
         "col4": "1752588",
         "col5": "0.1385",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(a)",
@@ -2558,7 +2601,7 @@
         "col4": "83660",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(b)",
@@ -2567,7 +2610,7 @@
         "col4": "1632972",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(c)",
@@ -2576,16 +2619,16 @@
         "col4": "35956",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2",
         "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
         "col3": "6329114",
-        "col4": "5444308",
-        "col5": "0.8602",
+        "col4": "5461752",
+        "col5": "0.8630",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(a)",
@@ -2594,16 +2637,16 @@
         "col4": "18334",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "5396070",
+        "col4": "5413514",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(c)",
@@ -2612,34 +2655,34 @@
         "col4": "29904",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
         "col3": "44303798",
-        "col4": "46875054",
-        "col5": "1.0580",
+        "col4": "47045044",
+        "col5": "1.0619",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3(a)",
         "col2": "Cut Off",
         "col3": "",
-        "col4": "43942860",
+        "col4": "44100746",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "2932194",
+        "col4": "2944298",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4",
@@ -2648,7 +2691,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4(a)",
@@ -2657,7 +2700,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4(b)",
@@ -2666,7 +2709,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5",
@@ -2675,7 +2718,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5(a)",
@@ -2684,7 +2727,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5(b)",
@@ -2693,16 +2736,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "",
         "col2": "Total",
         "col3": "88607596",
-        "col4": "54252620",
-        "col5": "0.6123",
+        "col4": "54440054",
+        "col5": "0.6144",
         "Scripname": "Hero Motors Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        }
       ]
      }
@@ -3324,7 +3367,50 @@
         "DYN_ORDER": "6"
        }
       ],
-      "IPONO_2": [],
+      "IPONO_2": [
+       {
+        "Price": "88.00",
+        "Quantity": "28186270",
+        "Price1": "88",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "89.00",
+        "Quantity": "28143444",
+        "Price1": "89",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "90.00",
+        "Quantity": "28133623",
+        "Price1": "90",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "91.00",
+        "Quantity": "28105287",
+        "Price1": "91",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "92.00",
+        "Quantity": "28085001",
+        "Price1": "92",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "93.00",
+        "Quantity": "28072765",
+        "Price1": "93",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "Cut-off",
+        "Quantity": "23094484",
+        "Price1": "9999",
+        "process_dttm": "9/16/2026 17:03:16"
+       }
+      ],
       "IPONO_3": [
        {
         "Price": "88.00",
@@ -3396,7 +3482,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1",
@@ -3405,7 +3491,7 @@
         "col4": "28336",
         "col5": "0.0106",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(a)",
@@ -3414,7 +3500,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(b)",
@@ -3423,7 +3509,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(c)",
@@ -3432,7 +3518,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(d)",
@@ -3441,16 +3527,16 @@
         "col4": "28336",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors (NIIs)",
         "col3": "2014200",
-        "col4": "3999240",
-        "col5": "1.9855",
+        "col4": "4003748",
+        "col5": "1.9878",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1",
@@ -3459,7 +3545,7 @@
         "col4": "933317",
         "col5": "0.6951",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(a)",
@@ -3468,7 +3554,7 @@
         "col4": "10948",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(b)",
@@ -3477,7 +3563,7 @@
         "col4": "900795",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(c)",
@@ -3486,16 +3572,16 @@
         "col4": "21574",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2",
         "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
         "col3": "671400",
-        "col4": "3065923",
-        "col5": "4.5665",
+        "col4": "3070431",
+        "col5": "4.5732",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(a)",
@@ -3504,16 +3590,16 @@
         "col4": "6601",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "3043544",
+        "col4": "3048052",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(c)",
@@ -3522,34 +3608,34 @@
         "col4": "15778",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
         "col3": "4699800",
-        "col4": "26165398",
-        "col5": "5.5673",
+        "col4": "26242678",
+        "col5": "5.5838",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3(a)",
         "col2": "Cut Off",
         "col3": "",
-        "col4": "24841656",
+        "col4": "24911852",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "1323742",
+        "col4": "1330826",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4",
@@ -3558,7 +3644,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4(a)",
@@ -3567,7 +3653,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4(b)",
@@ -3576,7 +3662,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5",
@@ -3585,7 +3671,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5(a)",
@@ -3594,7 +3680,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5(b)",
@@ -3603,16 +3689,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "",
         "col2": "Total",
         "col3": "9399600",
-        "col4": "30192974",
-        "col5": "3.2122",
+        "col4": "30274762",
+        "col5": "3.2209",
         "Scripname": "Jindal Supreme India Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        }
       ]
      }
@@ -4282,7 +4368,116 @@
         "DYN_ORDER": "6"
        }
       ],
-      "IPONO_2": [],
+      "IPONO_2": [
+       {
+        "Price": "403.00",
+        "Quantity": "4125905",
+        "Price1": "403",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "404.00",
+        "Quantity": "4124645",
+        "Price1": "404",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "405.00",
+        "Quantity": "4124435",
+        "Price1": "405",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "409.00",
+        "Quantity": "4124295",
+        "Price1": "409",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "410.00",
+        "Quantity": "4124260",
+        "Price1": "410",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "412.00",
+        "Quantity": "4123910",
+        "Price1": "412",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "413.00",
+        "Quantity": "4123875",
+        "Price1": "413",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "414.00",
+        "Quantity": "4123805",
+        "Price1": "414",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "415.00",
+        "Quantity": "4123770",
+        "Price1": "415",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "416.00",
+        "Quantity": "4123490",
+        "Price1": "416",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "417.00",
+        "Quantity": "4123455",
+        "Price1": "417",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "418.00",
+        "Quantity": "4123420",
+        "Price1": "418",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "420.00",
+        "Quantity": "4123385",
+        "Price1": "420",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "421.00",
+        "Quantity": "4122510",
+        "Price1": "421",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "422.00",
+        "Quantity": "4122440",
+        "Price1": "422",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "423.00",
+        "Quantity": "4120935",
+        "Price1": "423",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "424.00",
+        "Quantity": "4120060",
+        "Price1": "424",
+        "process_dttm": "9/16/2026 17:03:16"
+       },
+       {
+        "Price": "Cut-off",
+        "Quantity": "2581495",
+        "Price1": "9999",
+        "process_dttm": "9/16/2026 17:03:16"
+       }
+      ],
       "IPONO_3": [
        {
         "Price": "403.00",
@@ -4437,7 +4632,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1",
@@ -4446,7 +4641,7 @@
         "col4": "474565",
         "col5": "0.1960",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(a)",
@@ -4455,7 +4650,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(b)",
@@ -4464,7 +4659,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(c)",
@@ -4473,7 +4668,7 @@
         "col4": "471695",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(d)",
@@ -4482,16 +4677,16 @@
         "col4": "2870",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors (NIIs)",
         "col3": "1816377",
-        "col4": "823060",
-        "col5": "0.4531",
+        "col4": "823550",
+        "col5": "0.4534",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1",
@@ -4500,7 +4695,7 @@
         "col4": "334425",
         "col5": "0.2762",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(a)",
@@ -4509,7 +4704,7 @@
         "col4": "9520",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(b)",
@@ -4518,7 +4713,7 @@
         "col4": "315385",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.1(c)",
@@ -4527,16 +4722,16 @@
         "col4": "9520",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2",
         "col2": "Non Institutional Investors (Bid amount of more than Two Lakh and upto Ten Lakh Rupees)",
         "col3": "605459",
-        "col4": "488635",
-        "col5": "0.8070",
+        "col4": "489125",
+        "col5": "0.8079",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(a)",
@@ -4545,16 +4740,16 @@
         "col4": "490",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "486220",
+        "col4": "486710",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2.2(c)",
@@ -4563,34 +4758,34 @@
         "col4": "1925",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
         "col3": "4238213",
-        "col4": "3008320",
-        "col5": "0.7098",
+        "col4": "3016440",
+        "col5": "0.7117",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3(a)",
         "col2": "Cut Off",
         "col3": "",
-        "col4": "2745400",
+        "col4": "2752890",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "262920",
+        "col4": "263550",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4",
@@ -4599,7 +4794,7 @@
         "col4": "24500",
         "col5": "0.0772",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4(a)",
@@ -4608,7 +4803,7 @@
         "col4": "17990",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4(b)",
@@ -4617,7 +4812,7 @@
         "col4": "6510",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5",
@@ -4626,7 +4821,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5(a)",
@@ -4635,7 +4830,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5(b)",
@@ -4644,16 +4839,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "",
         "col2": "Total",
         "col3": "8793884",
-        "col4": "4330445",
-        "col5": "0.4924",
+        "col4": "4339055",
+        "col5": "0.4934",
         "Scripname": "SS Retail Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        }
       ]
      }
@@ -4690,16 +4885,7 @@
     "NEXGEN Financial Solutions Private Limited"
    ],
    "registrar": "Skyline Financial Services Private Limited",
-   "subscription": {
-    "timesSubscribed": 0.7445,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 0.0,
-     "nii": 1.4706,
-     "retail": 0.2759
-    }
-   },
+   "subscription": null,
    "urls": {
     "nse": null,
     "bse": "https://www.bseindia.com/publicissue"
@@ -4729,8 +4915,8 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "9/17/2026 00:36:57",
-        "DT_TMC": "Thursday, September 17 ,  2026 12:36:57 AM",
+        "DT_TM": "9/17/2026 07:11:09",
+        "DT_TMC": "Thursday, September 17 ,  2026  7:11:09 AM",
         "ISBID_Detail": "1",
         "IPO_NO": "7967",
         "ScripCode": "4818",
@@ -4834,13 +5020,13 @@
         "Price": "56.00",
         "Quantity": "2786000",
         "Price1": "56",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        },
        {
         "Price": "59.00",
         "Quantity": "2778000",
         "Price1": "59",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        }
       ],
       "IPONO_3": [],
@@ -4864,16 +5050,16 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "1",
         "col2": "Qualified Institutional Buyers (QIBs)",
-        "col3": "564000",
+        "col3": "",
         "col4": "0",
-        "col5": "0.0000",
+        "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "1(a)",
@@ -4882,7 +5068,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "1(b)",
@@ -4891,7 +5077,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "1(c)",
@@ -4900,7 +5086,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "1(D)",
@@ -4909,34 +5095,34 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "2",
         "col2": "Non Institutional Investors",
-        "col3": "1598000",
-        "col4": "2350000",
-        "col5": "1.4706",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "2(a)",
         "col2": "Corporates",
         "col3": "",
-        "col4": "204000",
+        "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "2(b)",
         "col2": "Individuals (Other than RIIs)",
         "col3": "",
-        "col4": "2146000",
+        "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "2(c)",
@@ -4945,16 +5131,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
-        "col3": "1580000",
-        "col4": "436000",
-        "col5": "0.2759",
+        "col3": "",
+        "col4": "0",
+        "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "3(a)",
@@ -4963,16 +5149,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "436000",
+        "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "4",
@@ -4981,7 +5167,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "4(a)",
@@ -4990,7 +5176,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "4(b)",
@@ -4999,7 +5185,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "5",
@@ -5008,7 +5194,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "5(a)",
@@ -5017,7 +5203,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "5(b)",
@@ -5026,16 +5212,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        },
        {
         "SRNo": "",
         "col2": "Total",
-        "col3": "3742000",
-        "col4": "2786000",
-        "col5": "0.7445",
+        "col3": "0",
+        "col4": "0",
+        "col5": "",
         "Scripname": "Shakti Polytarp Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": ""
        }
       ]
      }
@@ -5073,13 +5259,13 @@
    ],
    "registrar": "Maashitla Securities Private Limited",
    "subscription": {
-    "timesSubscribed": 0.4994,
+    "timesSubscribed": 0.5022,
     "sharesOffered": null,
     "sharesBid": null,
     "categories": {
      "qib": 1.0,
      "nii": 1.0206,
-     "retail": 0.326
+     "retail": 0.3297
     }
    },
    "urls": {
@@ -5111,8 +5297,8 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "9/17/2026 00:36:57",
-        "DT_TMC": "Thursday, September 17 ,  2026 12:36:57 AM",
+        "DT_TM": "9/17/2026 07:11:09",
+        "DT_TMC": "Thursday, September 17 ,  2026  7:11:09 AM",
         "ISBID_Detail": "1",
         "IPO_NO": "7969",
         "ScripCode": "4820",
@@ -5214,51 +5400,51 @@
       "IPONO_2": [
        {
         "Price": "324.00",
-        "Quantity": "725600",
+        "Quantity": "729600",
         "Price1": "324",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        },
        {
         "Price": "326.00",
-        "Quantity": "480400",
+        "Quantity": "484400",
         "Price1": "326",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        },
        {
         "Price": "330.00",
-        "Quantity": "479600",
+        "Quantity": "483600",
         "Price1": "330",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        },
        {
         "Price": "331.00",
-        "Quantity": "478800",
+        "Quantity": "482800",
         "Price1": "331",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        },
        {
         "Price": "336.00",
-        "Quantity": "478000",
+        "Quantity": "482000",
         "Price1": "336",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        },
        {
         "Price": "339.00",
-        "Quantity": "477200",
+        "Quantity": "481200",
         "Price1": "339",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        },
        {
         "Price": "340.00",
-        "Quantity": "477200",
+        "Quantity": "481200",
         "Price1": "340",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        },
        {
         "Price": "341.00",
-        "Quantity": "477200",
+        "Quantity": "481200",
         "Price1": "341",
-        "process_dttm": "9/17/2026 00:36:57"
+        "process_dttm": "9/17/2026 07:11:09"
        }
       ],
       "IPONO_3": [],
@@ -5274,7 +5460,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1",
@@ -5283,7 +5469,7 @@
         "col4": "14400",
         "col5": "1.0000",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(a)",
@@ -5292,7 +5478,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(b)",
@@ -5301,7 +5487,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(c)",
@@ -5310,7 +5496,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "1(D)",
@@ -5319,7 +5505,7 @@
         "col4": "14400",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2",
@@ -5328,7 +5514,7 @@
         "col4": "356000",
         "col5": "1.0206",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2(a)",
@@ -5337,7 +5523,7 @@
         "col4": "72800",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2(b)",
@@ -5346,7 +5532,7 @@
         "col4": "206400",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "2(c)",
@@ -5355,16 +5541,16 @@
         "col4": "76800",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3",
         "col2": "Retail Individual Investors (RIIs)",
         "col3": "1089600",
-        "col4": "355200",
-        "col5": "0.3260",
+        "col4": "359200",
+        "col5": "0.3297",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3(a)",
@@ -5373,16 +5559,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "3(b)",
         "col2": "Price Bids ",
         "col3": "",
-        "col4": "355200",
+        "col4": "359200",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4",
@@ -5391,7 +5577,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4(a)",
@@ -5400,7 +5586,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "4(b)",
@@ -5409,7 +5595,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5",
@@ -5418,7 +5604,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5(a)",
@@ -5427,7 +5613,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "5(b)",
@@ -5436,16 +5622,16 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        },
        {
         "SRNo": "",
         "col2": "Total",
         "col3": "1452800",
-        "col4": "725600",
-        "col5": "0.4994",
+        "col4": "729600",
+        "col5": "0.5022",
         "Scripname": "Vama Wovenfab Limited",
-        "Maxdt": "9/17/2026 00:35:08"
+        "Maxdt": "9/17/2026 07:10:35"
        }
       ]
      }
@@ -7492,7 +7678,8 @@
    "id": "asset-reconstruction-company-india",
    "companyName": "Asset Reconstruction Company (India) Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "ARCIL",
    "bseScripCode": null,
@@ -7501,13 +7688,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-09",
    "issueEndDate": "2026-09-11",
-   "listingDate": null,
+   "listingDate": "2026-09-17",
    "priceBand": {
     "min": 132.0,
     "max": 139.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 139.0,
    "faceValue": 10.0,
    "lotSize": 107,
    "issueSize": {
@@ -7541,16 +7728,36 @@
       "htmSym": "arcil",
       "ipoEndDate": "11-SEP-2026",
       "ipoStartDate": "09-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "   139",
       "linkRemovalDate": "12-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "17-SEP-2026",
       "priceRange": "Rs.132 to Rs.139",
       "securityType": "EQ",
       "symbol": "ARCIL"
      },
      "detail": {
-      "companyName": "ARCIL",
-      "metaInfo": {},
+      "companyName": "Asset Reconstruction Company (India) Limited",
+      "metaInfo": {
+       "symbol": "ARCIL",
+       "companyName": "Asset Reconstruction Company (India) Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE148G01016",
+       "listingDate": "2026-09-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -7978,14 +8185,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "ASSET RECONSTRUCTION COMPANY (INDIA) LIMITED",
+      "Company_Short_Name": "ARCIL",
+      "IssuePrice": 139.0,
+      "ListedOn": "2026-09-17T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "karamtara-engineering",
    "companyName": "Karamtara Engineering Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "KARAMTARA",
    "bseScripCode": null,
@@ -7994,13 +8215,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-09",
    "issueEndDate": "2026-09-11",
-   "listingDate": null,
+   "listingDate": "2026-09-17",
    "priceBand": {
     "min": 241.0,
     "max": 254.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 254.0,
    "faceValue": 10.0,
    "lotSize": 59,
    "issueSize": {
@@ -8034,16 +8255,36 @@
       "htmSym": "karamtara",
       "ipoEndDate": "11-SEP-2026",
       "ipoStartDate": "09-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "   254",
       "linkRemovalDate": "12-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "17-SEP-2026",
       "priceRange": "Rs.241 to Rs.254",
       "securityType": "EQ",
       "symbol": "KARAMTARA"
      },
      "detail": {
-      "companyName": "KARAMTARA",
-      "metaInfo": {},
+      "companyName": "Karamtara Engineering Limited",
+      "metaInfo": {
+       "symbol": "KARAMTARA",
+       "companyName": "Karamtara Engineering Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE590T01012",
+       "listingDate": "2026-09-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -8471,14 +8712,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "KARAMTARA ENGINEERING LIMITED",
+      "Company_Short_Name": "KARAMTARA",
+      "IssuePrice": 254.0,
+      "ListedOn": "2026-09-17T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "lcc-projects",
    "companyName": "LCC Projects Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "LCCPROJECT",
    "bseScripCode": null,
@@ -8487,13 +8742,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-09",
    "issueEndDate": "2026-09-11",
-   "listingDate": null,
+   "listingDate": "2026-09-17",
    "priceBand": {
     "min": 139.0,
     "max": 146.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 146.0,
    "faceValue": 5.0,
    "lotSize": 102,
    "issueSize": {
@@ -8525,16 +8780,36 @@
       "htmSym": "lccproject",
       "ipoEndDate": "11-SEP-2026",
       "ipoStartDate": "09-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "   146",
       "linkRemovalDate": "12-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "17-SEP-2026",
       "priceRange": "Rs.139 to Rs.146",
       "securityType": "EQ",
       "symbol": "LCCPROJECT"
      },
      "detail": {
-      "companyName": "LCCPROJECT",
-      "metaInfo": {},
+      "companyName": "LCC Projects Limited",
+      "metaInfo": {
+       "symbol": "LCCPROJECT",
+       "companyName": "LCC Projects Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1FPN01026",
+       "listingDate": "2026-09-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -8962,14 +9237,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "LCC PROJECTS LIMITED",
+      "Company_Short_Name": "LCCPROJECT",
+      "IssuePrice": 146.0,
+      "ListedOn": "2026-09-17T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "manipal-payment-and-identity-solutions",
    "companyName": "Manipal Payment and Identity Solutions Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "MPIMANIPAL",
    "bseScripCode": null,
@@ -8978,13 +9267,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-09",
    "issueEndDate": "2026-09-11",
-   "listingDate": null,
+   "listingDate": "2026-09-17",
    "priceBand": {
     "min": 322.0,
     "max": 339.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 339.0,
    "faceValue": 2.0,
    "lotSize": 44,
    "issueSize": {
@@ -9020,16 +9309,36 @@
       "htmSym": "mpimanipal",
       "ipoEndDate": "11-SEP-2026",
       "ipoStartDate": "09-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "   339",
       "linkRemovalDate": "12-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "17-SEP-2026",
       "priceRange": "Rs.322 to Rs.339",
       "securityType": "EQ",
       "symbol": "MPIMANIPAL"
      },
      "detail": {
-      "companyName": "MPIMANIPAL",
-      "metaInfo": {},
+      "companyName": "Manipal Payment and Identity Solutions Limited",
+      "metaInfo": {
+       "symbol": "MPIMANIPAL",
+       "companyName": "Manipal Payment and Identity Solutions Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE241U01028",
+       "listingDate": "2026-09-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -9457,14 +9766,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Manipal Payment and Identity Solutions Limited",
+      "Company_Short_Name": "MPIMANIPAL",
+      "IssuePrice": 339.0,
+      "ListedOn": "2026-09-17T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "rentomojo",
    "companyName": "Rentomojo Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "RENTOMOJO",
    "bseScripCode": null,
@@ -9473,13 +9796,13 @@
    "issueType": "100% Book Building",
    "issueStartDate": "2026-09-09",
    "issueEndDate": "2026-09-11",
-   "listingDate": null,
+   "listingDate": "2026-09-17",
    "priceBand": {
     "min": 384.0,
     "max": 404.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 404.0,
    "faceValue": 1.0,
    "lotSize": 37,
    "issueSize": {
@@ -9514,16 +9837,36 @@
       "htmSym": "rentomojo",
       "ipoEndDate": "11-SEP-2026",
       "ipoStartDate": "09-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "   404",
       "linkRemovalDate": "12-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "17-SEP-2026",
       "priceRange": "Rs.384 to Rs.404",
       "securityType": "EQ",
       "symbol": "RENTOMOJO"
      },
      "detail": {
-      "companyName": "RENTOMOJO",
-      "metaInfo": {},
+      "companyName": "Rentomojo Limited",
+      "metaInfo": {
+       "symbol": "RENTOMOJO",
+       "companyName": "Rentomojo Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE08T701025",
+       "listingDate": "2026-09-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -9997,14 +10340,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Rentomojo Limited",
+      "Company_Short_Name": "RENTOMOJO",
+      "IssuePrice": 404.0,
+      "ListedOn": "2026-09-17T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "steamhouse-india",
    "companyName": "Steamhouse India Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "STEAMHOUSE",
    "bseScripCode": null,
@@ -10013,13 +10370,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-09",
    "issueEndDate": "2026-09-11",
-   "listingDate": null,
+   "listingDate": "2026-09-17",
    "priceBand": {
     "min": 77.0,
     "max": 81.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 81.0,
    "faceValue": 2.0,
    "lotSize": 185,
    "issueSize": {
@@ -10051,16 +10408,36 @@
       "htmSym": "steamhouse",
       "ipoEndDate": "11-SEP-2026",
       "ipoStartDate": "09-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "    81",
       "linkRemovalDate": "12-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "17-SEP-2026",
       "priceRange": "Rs.77 to Rs.81",
       "securityType": "EQ",
       "symbol": "STEAMHOUSE"
      },
      "detail": {
-      "companyName": "STEAMHOUSE",
-      "metaInfo": {},
+      "companyName": "Steamhouse India Limited",
+      "metaInfo": {
+       "symbol": "STEAMHOUSE",
+       "companyName": "Steamhouse India Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE0FRO01022",
+       "listingDate": "2026-09-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -10488,7 +10865,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "Steamhouse India Limited",
+      "Company_Short_Name": "STEAMHOUSE",
+      "IssuePrice": 81.0,
+      "ListedOn": "2026-09-17T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
@@ -10504,13 +10894,13 @@
    "issueType": "Fixed Price",
    "issueStartDate": "2026-09-09",
    "issueEndDate": "2026-09-11",
-   "listingDate": null,
+   "listingDate": "2026-09-17",
    "priceBand": {
     "min": 94.0,
     "max": 94.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 94.0,
    "faceValue": 10.0,
    "lotSize": 1200,
    "issueSize": {
@@ -10540,16 +10930,36 @@
       "companyName": "Vinod Texworld Limited",
       "ipoEndDate": "11-SEP-2026",
       "ipoStartDate": "09-SEP-2026",
-      "issuePrice": "-",
-      "listingDate": "-",
+      "issuePrice": "94",
+      "listingDate": "17-SEP-2026",
       "priceRange": "Rs.94",
       "securityType": "SME",
       "symbol": "VINOD",
       "company": "Vinod Texworld Limited"
      },
      "detail": {
-      "companyName": "VINOD",
-      "metaInfo": {},
+      "companyName": "Vinod Texworld Limited",
+      "metaInfo": {
+       "symbol": "VINOD",
+       "companyName": "Vinod Texworld Limited",
+       "activeSeries": [
+        "ST"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1A5U01014",
+       "listingDate": "2026-09-17",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "SME"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -17551,7 +17961,7 @@
        "companyName": "Annu Projects Limited",
        "industry": "Civil Construction",
        "activeSeries": [
-        "BE"
+        "EQ"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -18059,7 +18469,7 @@
        "companyName": "Sumax Engineering Limited",
        "industry": "Auto Components & Equipments",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
