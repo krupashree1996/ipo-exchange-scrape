@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T20:13:34Z",
+ "generatedAt": "2026-09-22T01:48:37Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -716,7 +716,7 @@
         "IPO_NO": "7986",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:22:11 PM",
+        "INSERT_DTTM": "9/21/2026 21:22:11",
         "DYN_ORDER": "1"
        },
        {
@@ -724,7 +724,7 @@
         "IPO_NO": "7986",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:22:11 PM",
+        "INSERT_DTTM": "9/21/2026 21:22:11",
         "DYN_ORDER": "2"
        },
        {
@@ -732,7 +732,7 @@
         "IPO_NO": "7986",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:22:11 PM",
+        "INSERT_DTTM": "9/21/2026 21:22:11",
         "DYN_ORDER": "3"
        },
        {
@@ -740,7 +740,7 @@
         "IPO_NO": "7986",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:22:11 PM",
+        "INSERT_DTTM": "9/21/2026 21:22:11",
         "DYN_ORDER": "4"
        },
        {
@@ -748,7 +748,7 @@
         "IPO_NO": "7986",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:22:11 PM",
+        "INSERT_DTTM": "9/21/2026 21:22:11",
         "DYN_ORDER": "5"
        },
        {
@@ -756,7 +756,7 @@
         "IPO_NO": "7986",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:22:11 PM",
+        "INSERT_DTTM": "9/21/2026 21:22:11",
         "DYN_ORDER": "6"
        }
       ],
@@ -765,7 +765,7 @@
       "IPONO_4": [
        {
         "NOTICE_ID": "",
-        "NOTICE_DATE": "9/21/2026 8:40:17 PM",
+        "NOTICE_DATE": "9/21/2026 20:40:17",
         "NOTICE_NO": "20260921-44",
         "SUBJECT": "Public Issue of VARMORA GRANITO LIMITED-Allocation to Anchor Investors",
         "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-44/20260921-44.pdf"
@@ -1074,7 +1074,7 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "9/21/2026 5:00:00 PM",
+        "DT_TM": "9/21/2026 17:00:00",
         "DT_TMC": "Monday, September 21 ,  2026  5:00:00 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7980",
@@ -1130,7 +1130,7 @@
         "IPO_NO": "7980",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 12:30:21 AM",
+        "INSERT_DTTM": "9/19/2026 00:30:21",
         "DYN_ORDER": "1"
        },
        {
@@ -1138,7 +1138,7 @@
         "IPO_NO": "7980",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 12:30:21 AM",
+        "INSERT_DTTM": "9/19/2026 00:30:21",
         "DYN_ORDER": "2"
        },
        {
@@ -1146,7 +1146,7 @@
         "IPO_NO": "7980",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 12:30:21 AM",
+        "INSERT_DTTM": "9/19/2026 00:30:21",
         "DYN_ORDER": "3"
        },
        {
@@ -1154,7 +1154,7 @@
         "IPO_NO": "7980",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 12:30:21 AM",
+        "INSERT_DTTM": "9/19/2026 00:30:21",
         "DYN_ORDER": "4"
        },
        {
@@ -1162,7 +1162,7 @@
         "IPO_NO": "7980",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 12:30:21 AM",
+        "INSERT_DTTM": "9/19/2026 00:30:21",
         "DYN_ORDER": "5"
        },
        {
@@ -1170,7 +1170,7 @@
         "IPO_NO": "7980",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 12:30:21 AM",
+        "INSERT_DTTM": "9/19/2026 00:30:21",
         "DYN_ORDER": "6"
        }
       ],
@@ -1179,13 +1179,13 @@
         "Price": "115.00",
         "Quantity": "752400",
         "Price1": "115",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        },
        {
         "Price": "116.00",
         "Quantity": "746400",
         "Price1": "116",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        }
       ],
       "IPONO_3": [
@@ -1193,19 +1193,19 @@
         "Price": "115.00",
         "Quantity": "752400",
         "Price1": "115",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        },
        {
         "Price": "116.00",
         "Quantity": "746400",
         "Price1": "116",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        }
       ],
       "IPONO_4": [
        {
         "NOTICE_ID": "",
-        "NOTICE_DATE": "9/18/2026 7:52:00 PM",
+        "NOTICE_DATE": "9/18/2026 19:52:00",
         "NOTICE_NO": "20260918-46",
         "SUBJECT": "Public Issue of FX MULTITECH LIMITED - Allocation to Anchor Investors",
         "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-46/20260918-46.pdf"
@@ -1222,7 +1222,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1",
@@ -1231,7 +1231,7 @@
         "col4": "0",
         "col5": "0.0000",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(a)",
@@ -1240,7 +1240,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(b)",
@@ -1249,7 +1249,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(c)",
@@ -1258,7 +1258,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(D)",
@@ -1267,7 +1267,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2",
@@ -1276,7 +1276,7 @@
         "col4": "666000",
         "col5": "0.8824",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(a)",
@@ -1285,7 +1285,7 @@
         "col4": "196800",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(b)",
@@ -1294,7 +1294,7 @@
         "col4": "469200",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(c)",
@@ -1303,7 +1303,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3",
@@ -1312,7 +1312,7 @@
         "col4": "86400",
         "col5": "0.0665",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3(a)",
@@ -1321,7 +1321,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3(b)",
@@ -1330,7 +1330,7 @@
         "col4": "86400",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4",
@@ -1339,7 +1339,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4(a)",
@@ -1348,7 +1348,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4(b)",
@@ -1357,7 +1357,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5",
@@ -1366,7 +1366,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5(a)",
@@ -1375,7 +1375,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5(b)",
@@ -1384,7 +1384,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "",
@@ -1393,7 +1393,7 @@
         "col4": "752400",
         "col5": "0.2690",
         "Scripname": "FX MULTITECH LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        }
       ]
      }
@@ -1469,7 +1469,7 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "9/21/2026 5:00:00 PM",
+        "DT_TM": "9/21/2026 17:00:00",
         "DT_TMC": "Monday, September 21 ,  2026  5:00:00 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7982",
@@ -1525,7 +1525,7 @@
         "IPO_NO": "7982",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 9:18:39 PM",
+        "INSERT_DTTM": "9/18/2026 21:18:39",
         "DYN_ORDER": "1"
        },
        {
@@ -1533,7 +1533,7 @@
         "IPO_NO": "7982",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 9:18:39 PM",
+        "INSERT_DTTM": "9/18/2026 21:18:39",
         "DYN_ORDER": "2"
        },
        {
@@ -1541,7 +1541,7 @@
         "IPO_NO": "7982",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 9:18:39 PM",
+        "INSERT_DTTM": "9/18/2026 21:18:39",
         "DYN_ORDER": "3"
        },
        {
@@ -1549,7 +1549,7 @@
         "IPO_NO": "7982",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 9:18:39 PM",
+        "INSERT_DTTM": "9/18/2026 21:18:39",
         "DYN_ORDER": "4"
        },
        {
@@ -1557,7 +1557,7 @@
         "IPO_NO": "7982",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 9:18:39 PM",
+        "INSERT_DTTM": "9/18/2026 21:18:39",
         "DYN_ORDER": "5"
        },
        {
@@ -1565,7 +1565,7 @@
         "IPO_NO": "7982",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 9:18:39 PM",
+        "INSERT_DTTM": "9/18/2026 21:18:39",
         "DYN_ORDER": "6"
        }
       ],
@@ -1574,37 +1574,37 @@
         "Price": "100.00",
         "Quantity": "18045600",
         "Price1": "100",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        },
        {
         "Price": "101.00",
         "Quantity": "17990400",
         "Price1": "101",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        },
        {
         "Price": "102.00",
         "Quantity": "17983200",
         "Price1": "102",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        },
        {
         "Price": "104.00",
         "Quantity": "17976000",
         "Price1": "104",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        },
        {
         "Price": "105.00",
         "Quantity": "17968800",
         "Price1": "105",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        },
        {
         "Price": "106.00",
         "Quantity": "17937600",
         "Price1": "106",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        }
       ],
       "IPONO_3": [
@@ -1612,37 +1612,37 @@
         "Price": "100.00",
         "Quantity": "18045600",
         "Price1": "100",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        },
        {
         "Price": "101.00",
         "Quantity": "17990400",
         "Price1": "101",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        },
        {
         "Price": "102.00",
         "Quantity": "17983200",
         "Price1": "102",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        },
        {
         "Price": "104.00",
         "Quantity": "17976000",
         "Price1": "104",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        },
        {
         "Price": "105.00",
         "Quantity": "17968800",
         "Price1": "105",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        },
        {
         "Price": "106.00",
         "Quantity": "17937600",
         "Price1": "106",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        }
       ],
       "IPONO_4": [],
@@ -1657,7 +1657,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1",
@@ -1666,7 +1666,7 @@
         "col4": "40800",
         "col5": "0.0738",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(a)",
@@ -1675,7 +1675,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(b)",
@@ -1684,7 +1684,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(c)",
@@ -1693,7 +1693,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(D)",
@@ -1702,7 +1702,7 @@
         "col4": "40800",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2",
@@ -1711,7 +1711,7 @@
         "col4": "3604800",
         "col5": "6.2195",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(a)",
@@ -1720,7 +1720,7 @@
         "col4": "26400",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(b)",
@@ -1729,7 +1729,7 @@
         "col4": "3562800",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(c)",
@@ -1738,7 +1738,7 @@
         "col4": "15600",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3",
@@ -1747,7 +1747,7 @@
         "col4": "14400000",
         "col5": "14.8148",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3(a)",
@@ -1756,7 +1756,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3(b)",
@@ -1765,7 +1765,7 @@
         "col4": "14400000",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4",
@@ -1774,7 +1774,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4(a)",
@@ -1783,7 +1783,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4(b)",
@@ -1792,7 +1792,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5",
@@ -1801,7 +1801,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5(a)",
@@ -1810,7 +1810,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5(b)",
@@ -1819,7 +1819,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "",
@@ -1828,7 +1828,7 @@
         "col4": "18045600",
         "col5": "8.5735",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        }
       ]
      }
@@ -1904,7 +1904,7 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "9/21/2026 5:00:00 PM",
+        "DT_TM": "9/21/2026 17:00:00",
         "DT_TMC": "Monday, September 21 ,  2026  5:00:00 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7981",
@@ -1960,7 +1960,7 @@
         "IPO_NO": "7981",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:49:55 AM",
+        "INSERT_DTTM": "9/21/2026 09:49:55",
         "DYN_ORDER": "1"
        },
        {
@@ -1968,7 +1968,7 @@
         "IPO_NO": "7981",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:49:55 AM",
+        "INSERT_DTTM": "9/21/2026 09:49:55",
         "DYN_ORDER": "2"
        },
        {
@@ -1976,7 +1976,7 @@
         "IPO_NO": "7981",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:49:55 AM",
+        "INSERT_DTTM": "9/21/2026 09:49:55",
         "DYN_ORDER": "3"
        },
        {
@@ -1984,7 +1984,7 @@
         "IPO_NO": "7981",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:49:55 AM",
+        "INSERT_DTTM": "9/21/2026 09:49:55",
         "DYN_ORDER": "4"
        },
        {
@@ -1992,7 +1992,7 @@
         "IPO_NO": "7981",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:49:55 AM",
+        "INSERT_DTTM": "9/21/2026 09:49:55",
         "DYN_ORDER": "5"
        },
        {
@@ -2000,7 +2000,7 @@
         "IPO_NO": "7981",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 9:49:55 AM",
+        "INSERT_DTTM": "9/21/2026 09:49:55",
         "DYN_ORDER": "6"
        }
       ],
@@ -2009,7 +2009,7 @@
         "Price": "37.00",
         "Quantity": "321000",
         "Price1": "37",
-        "process_dttm": "9/21/2026 5:04:46 PM"
+        "process_dttm": "9/21/2026 17:04:46"
        }
       ],
       "IPONO_3": [
@@ -2017,13 +2017,13 @@
         "Price": "37.00",
         "Quantity": "321000",
         "Price1": "37",
-        "process_dttm": "9/21/2026 5:09:00 PM"
+        "process_dttm": "9/21/2026 17:09:00"
        }
       ],
       "IPONO_4": [
        {
         "NOTICE_ID": "",
-        "NOTICE_DATE": "9/18/2026 6:36:23 PM",
+        "NOTICE_DATE": "9/18/2026 18:36:23",
         "NOTICE_NO": "20260918-28",
         "SUBJECT": "Public Issue of VIVEKANAND COTSPIN LIMITED- Allocation to Anchor Investors",
         "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-28/20260918-28.pdf"
@@ -2040,7 +2040,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1",
@@ -2049,7 +2049,7 @@
         "col4": "0",
         "col5": "0.0000",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(a)",
@@ -2058,7 +2058,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(b)",
@@ -2067,7 +2067,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(c)",
@@ -2076,7 +2076,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "1(D)",
@@ -2085,7 +2085,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2",
@@ -2094,7 +2094,7 @@
         "col4": "225000",
         "col5": "0.1948",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(a)",
@@ -2103,7 +2103,7 @@
         "col4": "69000",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(b)",
@@ -2112,7 +2112,7 @@
         "col4": "156000",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "2(c)",
@@ -2121,7 +2121,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3",
@@ -2130,7 +2130,7 @@
         "col4": "96000",
         "col5": "0.0480",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3(a)",
@@ -2139,7 +2139,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "3(b)",
@@ -2148,7 +2148,7 @@
         "col4": "96000",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4",
@@ -2157,7 +2157,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4(a)",
@@ -2166,7 +2166,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "4(b)",
@@ -2175,7 +2175,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5",
@@ -2184,7 +2184,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5(a)",
@@ -2193,7 +2193,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "5(b)",
@@ -2202,7 +2202,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        },
        {
         "SRNo": "",
@@ -2211,7 +2211,7 @@
         "col4": "321000",
         "col5": "0.0747",
         "Scripname": "Vivekanand Cotspin Limited",
-        "Maxdt": "9/21/2026 5:00:00 PM"
+        "Maxdt": "9/21/2026 17:00:00"
        }
       ]
      }
@@ -2942,7 +2942,7 @@
         "IPO_NO": "7993",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 22:23:52",
+        "INSERT_DTTM": "9/21/2026 10:23:52 PM",
         "DYN_ORDER": "1"
        },
        {
@@ -2950,7 +2950,7 @@
         "IPO_NO": "7993",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 22:23:52",
+        "INSERT_DTTM": "9/21/2026 10:23:52 PM",
         "DYN_ORDER": "2"
        },
        {
@@ -2958,7 +2958,7 @@
         "IPO_NO": "7993",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 22:23:52",
+        "INSERT_DTTM": "9/21/2026 10:23:52 PM",
         "DYN_ORDER": "3"
        },
        {
@@ -2966,7 +2966,7 @@
         "IPO_NO": "7993",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 22:23:52",
+        "INSERT_DTTM": "9/21/2026 10:23:52 PM",
         "DYN_ORDER": "4"
        },
        {
@@ -2974,7 +2974,7 @@
         "IPO_NO": "7993",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 22:23:52",
+        "INSERT_DTTM": "9/21/2026 10:23:52 PM",
         "DYN_ORDER": "5"
        },
        {
@@ -2982,7 +2982,7 @@
         "IPO_NO": "7993",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 22:23:52",
+        "INSERT_DTTM": "9/21/2026 10:23:52 PM",
         "DYN_ORDER": "6"
        }
       ],
@@ -3532,7 +3532,7 @@
         "IPO_NO": "7992",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 6:29:43 PM",
+        "INSERT_DTTM": "9/21/2026 18:29:43",
         "DYN_ORDER": "1"
        },
        {
@@ -3540,7 +3540,7 @@
         "IPO_NO": "7992",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 6:29:43 PM",
+        "INSERT_DTTM": "9/21/2026 18:29:43",
         "DYN_ORDER": "2"
        },
        {
@@ -3548,7 +3548,7 @@
         "IPO_NO": "7992",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 6:29:43 PM",
+        "INSERT_DTTM": "9/21/2026 18:29:43",
         "DYN_ORDER": "3"
        },
        {
@@ -3556,7 +3556,7 @@
         "IPO_NO": "7992",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 6:29:43 PM",
+        "INSERT_DTTM": "9/21/2026 18:29:43",
         "DYN_ORDER": "4"
        },
        {
@@ -3564,7 +3564,7 @@
         "IPO_NO": "7992",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 6:29:43 PM",
+        "INSERT_DTTM": "9/21/2026 18:29:43",
         "DYN_ORDER": "5"
        },
        {
@@ -3572,7 +3572,7 @@
         "IPO_NO": "7992",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 6:29:43 PM",
+        "INSERT_DTTM": "9/21/2026 18:29:43",
         "DYN_ORDER": "6"
        }
       ],
@@ -4332,7 +4332,7 @@
         "IPO_NO": "7987",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 9:46:57 AM",
+        "INSERT_DTTM": "9/19/2026 09:46:57",
         "DYN_ORDER": "1"
        },
        {
@@ -4340,7 +4340,7 @@
         "IPO_NO": "7987",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 9:46:57 AM",
+        "INSERT_DTTM": "9/19/2026 09:46:57",
         "DYN_ORDER": "2"
        },
        {
@@ -4348,7 +4348,7 @@
         "IPO_NO": "7987",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 9:46:57 AM",
+        "INSERT_DTTM": "9/19/2026 09:46:57",
         "DYN_ORDER": "3"
        },
        {
@@ -4356,7 +4356,7 @@
         "IPO_NO": "7987",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 9:46:57 AM",
+        "INSERT_DTTM": "9/19/2026 09:46:57",
         "DYN_ORDER": "4"
        },
        {
@@ -4364,7 +4364,7 @@
         "IPO_NO": "7987",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 9:46:57 AM",
+        "INSERT_DTTM": "9/19/2026 09:46:57",
         "DYN_ORDER": "5"
        },
        {
@@ -4372,7 +4372,7 @@
         "IPO_NO": "7987",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/19/2026 9:46:57 AM",
+        "INSERT_DTTM": "9/19/2026 09:46:57",
         "DYN_ORDER": "6"
        }
       ],
@@ -4729,7 +4729,7 @@
         "IPO_NO": "7989",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 1:14:45 PM",
+        "INSERT_DTTM": "9/21/2026 13:14:45",
         "DYN_ORDER": "1"
        },
        {
@@ -4737,7 +4737,7 @@
         "IPO_NO": "7989",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 1:14:45 PM",
+        "INSERT_DTTM": "9/21/2026 13:14:45",
         "DYN_ORDER": "2"
        },
        {
@@ -4745,7 +4745,7 @@
         "IPO_NO": "7989",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 1:14:45 PM",
+        "INSERT_DTTM": "9/21/2026 13:14:45",
         "DYN_ORDER": "3"
        },
        {
@@ -4753,7 +4753,7 @@
         "IPO_NO": "7989",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 1:14:45 PM",
+        "INSERT_DTTM": "9/21/2026 13:14:45",
         "DYN_ORDER": "4"
        },
        {
@@ -4761,7 +4761,7 @@
         "IPO_NO": "7989",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 1:14:45 PM",
+        "INSERT_DTTM": "9/21/2026 13:14:45",
         "DYN_ORDER": "5"
        },
        {
@@ -4769,7 +4769,7 @@
         "IPO_NO": "7989",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 1:14:45 PM",
+        "INSERT_DTTM": "9/21/2026 13:14:45",
         "DYN_ORDER": "6"
        }
       ],
@@ -5290,7 +5290,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 12:42:10 PM",
+        "INSERT_DTTM": "9/18/2026 12:42:10",
         "DYN_ORDER": "1"
        },
        {
@@ -5298,7 +5298,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 12:42:10 PM",
+        "INSERT_DTTM": "9/18/2026 12:42:10",
         "DYN_ORDER": "2"
        },
        {
@@ -5306,7 +5306,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 12:42:10 PM",
+        "INSERT_DTTM": "9/18/2026 12:42:10",
         "DYN_ORDER": "3"
        },
        {
@@ -5314,7 +5314,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 12:42:10 PM",
+        "INSERT_DTTM": "9/18/2026 12:42:10",
         "DYN_ORDER": "4"
        },
        {
@@ -5322,7 +5322,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 12:42:10 PM",
+        "INSERT_DTTM": "9/18/2026 12:42:10",
         "DYN_ORDER": "5"
        },
        {
@@ -5330,7 +5330,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/18/2026 12:42:10 PM",
+        "INSERT_DTTM": "9/18/2026 12:42:10",
         "DYN_ORDER": "6"
        }
       ],
@@ -18529,7 +18529,7 @@
        "companyName": "Ashutosh Fibre Limited",
        "industry": "Other Textile Products",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
@@ -19492,7 +19492,7 @@
        "companyName": "Shanti Inorganics Limited",
        "industry": "Commodity Chemicals",
        "activeSeries": [
-        "ST"
+        "SM"
        ],
        "debtSeries": [],
        "isFNOSec": false,
