@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T19:10:56Z",
+ "generatedAt": "2026-09-23T01:45:44Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -2807,7 +2807,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 10:30:27 PM",
+        "INSERT_DTTM": "9/22/2026 22:30:27",
         "DYN_ORDER": "1"
        },
        {
@@ -2815,7 +2815,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 10:30:27 PM",
+        "INSERT_DTTM": "9/22/2026 22:30:27",
         "DYN_ORDER": "2"
        },
        {
@@ -2823,7 +2823,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 10:30:27 PM",
+        "INSERT_DTTM": "9/22/2026 22:30:27",
         "DYN_ORDER": "3"
        },
        {
@@ -2831,7 +2831,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 10:30:27 PM",
+        "INSERT_DTTM": "9/22/2026 22:30:27",
         "DYN_ORDER": "4"
        },
        {
@@ -2839,7 +2839,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 10:30:27 PM",
+        "INSERT_DTTM": "9/22/2026 22:30:27",
         "DYN_ORDER": "5"
        },
        {
@@ -2847,7 +2847,7 @@
         "IPO_NO": "7984",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 10:30:27 PM",
+        "INSERT_DTTM": "9/22/2026 22:30:27",
         "DYN_ORDER": "6"
        }
       ],
@@ -2856,7 +2856,7 @@
       "IPONO_4": [
        {
         "NOTICE_ID": "",
-        "NOTICE_DATE": "9/22/2026 6:57:53 PM",
+        "NOTICE_DATE": "9/22/2026 18:57:53",
         "NOTICE_NO": "20260922-37",
         "SUBJECT": "Public Issue of S.K. OFFSET LIMITED - Allocation to Anchor Investors",
         "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-37/20260922-37.pdf"
@@ -3381,7 +3381,7 @@
         "IPO_NO": "7991",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 21:00:14",
+        "INSERT_DTTM": "9/22/2026 9:00:14 PM",
         "DYN_ORDER": "1"
        },
        {
@@ -3389,7 +3389,7 @@
         "IPO_NO": "7991",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 21:00:13",
+        "INSERT_DTTM": "9/22/2026 9:00:13 PM",
         "DYN_ORDER": "2"
        },
        {
@@ -3397,7 +3397,7 @@
         "IPO_NO": "7991",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 21:00:14",
+        "INSERT_DTTM": "9/22/2026 9:00:14 PM",
         "DYN_ORDER": "3"
        },
        {
@@ -3405,7 +3405,7 @@
         "IPO_NO": "7991",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 21:00:13",
+        "INSERT_DTTM": "9/22/2026 9:00:13 PM",
         "DYN_ORDER": "4"
        },
        {
@@ -3413,7 +3413,7 @@
         "IPO_NO": "7991",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 21:00:14",
+        "INSERT_DTTM": "9/22/2026 9:00:14 PM",
         "DYN_ORDER": "5"
        },
        {
@@ -3421,7 +3421,7 @@
         "IPO_NO": "7991",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 21:00:14",
+        "INSERT_DTTM": "9/22/2026 9:00:14 PM",
         "DYN_ORDER": "6"
        }
       ],
@@ -3430,14 +3430,14 @@
       "IPONO_4": [
        {
         "NOTICE_ID": "",
-        "NOTICE_DATE": "9/22/2026 20:22:51",
+        "NOTICE_DATE": "9/22/2026 8:22:51 PM",
         "NOTICE_NO": "20260922-49",
         "SUBJECT": "Public Issue of  SWASTIKA INFRA LIMITED- Allocation to Anchor Investors",
         "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-49/20260922-49.pdf"
        },
        {
         "NOTICE_ID": "dfe1d700-7b2d-4537-8d95-4dfe028eb236",
-        "NOTICE_DATE": "8/3/2022 00:00:00",
+        "NOTICE_DATE": "8/3/2022 12:00:00 AM",
         "NOTICE_NO": "20220803-40",
         "SUBJECT": "Processing of ASBA applications in Public Issue of Equity Shares and Convertibles",
         "FILENAME": ""
@@ -4115,7 +4115,7 @@
      "detail": {
       "IPONO_0": [
        {
-        "DT_TM": "9/22/2026 17:00:00",
+        "DT_TM": "9/22/2026 5:00:00 PM",
         "DT_TMC": "Tuesday, September 22 ,  2026  5:00:00 PM",
         "ISBID_Detail": "1",
         "IPO_NO": "7983",
@@ -4171,7 +4171,7 @@
         "IPO_NO": "7983",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 20:31:27",
+        "INSERT_DTTM": "9/21/2026 8:31:27 PM",
         "DYN_ORDER": "1"
        },
        {
@@ -4179,7 +4179,7 @@
         "IPO_NO": "7983",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 20:31:27",
+        "INSERT_DTTM": "9/21/2026 8:31:27 PM",
         "DYN_ORDER": "2"
        },
        {
@@ -4187,7 +4187,7 @@
         "IPO_NO": "7983",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 20:31:27",
+        "INSERT_DTTM": "9/21/2026 8:31:27 PM",
         "DYN_ORDER": "3"
        },
        {
@@ -4195,7 +4195,7 @@
         "IPO_NO": "7983",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 20:31:27",
+        "INSERT_DTTM": "9/21/2026 8:31:27 PM",
         "DYN_ORDER": "4"
        },
        {
@@ -4203,7 +4203,7 @@
         "IPO_NO": "7983",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 20:31:27",
+        "INSERT_DTTM": "9/21/2026 8:31:27 PM",
         "DYN_ORDER": "5"
        },
        {
@@ -4211,7 +4211,7 @@
         "IPO_NO": "7983",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/21/2026 20:31:27",
+        "INSERT_DTTM": "9/21/2026 8:31:27 PM",
         "DYN_ORDER": "6"
        }
       ],
@@ -4220,13 +4220,13 @@
         "Price": "100.00",
         "Quantity": "183600",
         "Price1": "100",
-        "process_dttm": "9/22/2026 17:02:12"
+        "process_dttm": "9/22/2026 5:02:12 PM"
        },
        {
         "Price": "106.00",
         "Quantity": "181200",
         "Price1": "106",
-        "process_dttm": "9/22/2026 17:02:12"
+        "process_dttm": "9/22/2026 5:02:12 PM"
        }
       ],
       "IPONO_3": [
@@ -4234,19 +4234,19 @@
         "Price": "100.00",
         "Quantity": "183600",
         "Price1": "100",
-        "process_dttm": "9/22/2026 17:09:00"
+        "process_dttm": "9/22/2026 5:09:00 PM"
        },
        {
         "Price": "106.00",
         "Quantity": "181200",
         "Price1": "106",
-        "process_dttm": "9/22/2026 17:09:00"
+        "process_dttm": "9/22/2026 5:09:00 PM"
        }
       ],
       "IPONO_4": [
        {
         "NOTICE_ID": "",
-        "NOTICE_DATE": "9/21/2026 19:18:52",
+        "NOTICE_DATE": "9/21/2026 7:18:52 PM",
         "NOTICE_NO": "20260921-39",
         "SUBJECT": "Public Issue of HIMALAYA NUTRAVEDICS INDIA LIMITED\r\n - Allocation to Anchor Investors",
         "FILENAME": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-39/20260921-39.pdf"
@@ -4263,7 +4263,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1",
@@ -4272,7 +4272,7 @@
         "col4": "0",
         "col5": "0.0000",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1(a)",
@@ -4281,7 +4281,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1(b)",
@@ -4290,7 +4290,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1(c)",
@@ -4299,7 +4299,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1(D)",
@@ -4308,7 +4308,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "2",
@@ -4317,7 +4317,7 @@
         "col4": "49200",
         "col5": "0.1020",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "2(a)",
@@ -4326,7 +4326,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "2(b)",
@@ -4335,7 +4335,7 @@
         "col4": "49200",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "2(c)",
@@ -4344,7 +4344,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "3",
@@ -4353,7 +4353,7 @@
         "col4": "134400",
         "col5": "0.1614",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "3(a)",
@@ -4362,7 +4362,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "3(b)",
@@ -4371,7 +4371,7 @@
         "col4": "134400",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "4",
@@ -4380,7 +4380,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "4(a)",
@@ -4389,7 +4389,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "4(b)",
@@ -4398,7 +4398,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "5",
@@ -4407,7 +4407,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "5(a)",
@@ -4416,7 +4416,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "5(b)",
@@ -4425,7 +4425,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "",
@@ -4434,7 +4434,7 @@
         "col4": "183600",
         "col5": "0.1026",
         "Scripname": "Himalaya Nutravedics India Limited",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        }
       ]
      }
@@ -6113,7 +6113,7 @@
         "col4": "No. of shares bid for",
         "col5": "No. of times of total meant for the category",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1",
@@ -6122,7 +6122,7 @@
         "col4": "534000",
         "col5": "0.9653",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1(a)",
@@ -6131,7 +6131,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1(b)",
@@ -6140,7 +6140,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1(c)",
@@ -6149,7 +6149,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "1(D)",
@@ -6158,7 +6158,7 @@
         "col4": "534000",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "2",
@@ -6167,7 +6167,7 @@
         "col4": "45612000",
         "col5": "78.6957",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "2(a)",
@@ -6176,7 +6176,7 @@
         "col4": "739200",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "2(b)",
@@ -6185,7 +6185,7 @@
         "col4": "44580000",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "2(c)",
@@ -6194,7 +6194,7 @@
         "col4": "292800",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "3",
@@ -6203,7 +6203,7 @@
         "col4": "95328000",
         "col5": "98.0741",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "3(a)",
@@ -6212,7 +6212,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "3(b)",
@@ -6221,7 +6221,7 @@
         "col4": "95328000",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "4",
@@ -6230,7 +6230,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "4(a)",
@@ -6239,7 +6239,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "4(b)",
@@ -6248,7 +6248,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "5",
@@ -6257,7 +6257,7 @@
         "col4": "0",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "5(a)",
@@ -6266,7 +6266,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "5(b)",
@@ -6275,7 +6275,7 @@
         "col4": "",
         "col5": "",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        },
        {
         "SRNo": "",
@@ -6284,7 +6284,7 @@
         "col4": "141474000",
         "col5": "67.2149",
         "Scripname": "ROBOKIDZ EDUVENTURES LIMITED",
-        "Maxdt": "9/22/2026 17:00:00"
+        "Maxdt": "9/22/2026 5:00:00 PM"
        }
       ]
      }
@@ -7585,7 +7585,7 @@
         "IPO_NO": "7998",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 22:33:18",
+        "INSERT_DTTM": "9/22/2026 10:33:18 PM",
         "DYN_ORDER": "1"
        },
        {
@@ -7593,7 +7593,7 @@
         "IPO_NO": "7998",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 22:33:18",
+        "INSERT_DTTM": "9/22/2026 10:33:18 PM",
         "DYN_ORDER": "2"
        },
        {
@@ -7601,7 +7601,7 @@
         "IPO_NO": "7998",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 22:33:18",
+        "INSERT_DTTM": "9/22/2026 10:33:18 PM",
         "DYN_ORDER": "3"
        },
        {
@@ -7609,7 +7609,7 @@
         "IPO_NO": "7998",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 22:33:18",
+        "INSERT_DTTM": "9/22/2026 10:33:18 PM",
         "DYN_ORDER": "4"
        },
        {
@@ -7617,7 +7617,7 @@
         "IPO_NO": "7998",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 22:33:18",
+        "INSERT_DTTM": "9/22/2026 10:33:18 PM",
         "DYN_ORDER": "5"
        },
        {
@@ -7625,7 +7625,7 @@
         "IPO_NO": "7998",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 22:33:18",
+        "INSERT_DTTM": "9/22/2026 10:33:18 PM",
         "DYN_ORDER": "6"
        }
       ],
@@ -8177,7 +8177,7 @@
         "IPO_NO": "7995",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 20:04:23",
+        "INSERT_DTTM": "9/22/2026 8:04:23 PM",
         "DYN_ORDER": "1"
        },
        {
@@ -8185,7 +8185,7 @@
         "IPO_NO": "7995",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 20:04:23",
+        "INSERT_DTTM": "9/22/2026 8:04:23 PM",
         "DYN_ORDER": "2"
        },
        {
@@ -8193,7 +8193,7 @@
         "IPO_NO": "7995",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 20:04:23",
+        "INSERT_DTTM": "9/22/2026 8:04:23 PM",
         "DYN_ORDER": "3"
        },
        {
@@ -8201,7 +8201,7 @@
         "IPO_NO": "7995",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 20:04:23",
+        "INSERT_DTTM": "9/22/2026 8:04:23 PM",
         "DYN_ORDER": "4"
        },
        {
@@ -8209,7 +8209,7 @@
         "IPO_NO": "7995",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 20:04:23",
+        "INSERT_DTTM": "9/22/2026 8:04:23 PM",
         "DYN_ORDER": "5"
        },
        {
@@ -8217,7 +8217,7 @@
         "IPO_NO": "7995",
         "DYN_COLNAME": "",
         "DYN_COLValue": "",
-        "INSERT_DTTM": "9/22/2026 20:04:23",
+        "INSERT_DTTM": "9/22/2026 8:04:23 PM",
         "DYN_ORDER": "6"
        }
       ],
@@ -11109,7 +11109,8 @@
    "id": "hero-motors",
    "companyName": "Hero Motors Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "HEROMOTORS",
    "bseScripCode": null,
@@ -11118,13 +11119,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-16",
    "issueEndDate": "2026-09-18",
-   "listingDate": null,
+   "listingDate": "2026-09-23",
    "priceBand": {
     "min": 79.0,
     "max": 84.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 84.0,
    "faceValue": 10.0,
    "lotSize": 178,
    "issueSize": {
@@ -11158,16 +11159,36 @@
       "htmSym": "heromotors",
       "ipoEndDate": "18-SEP-2026",
       "ipoStartDate": "16-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "    84",
       "linkRemovalDate": "19-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "23-SEP-2026",
       "priceRange": "Rs.79 to Rs.84",
       "securityType": "EQ",
       "symbol": "HEROMOTORS"
      },
      "detail": {
-      "companyName": "HEROMOTORS",
-      "metaInfo": {},
+      "companyName": "Hero Motors Limited",
+      "metaInfo": {
+       "symbol": "HEROMOTORS",
+       "companyName": "Hero Motors Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE012G01022",
+       "listingDate": "2026-09-23",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -11595,14 +11616,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "HERO MOTORS LIMITED",
+      "Company_Short_Name": "HEROMOTORS",
+      "IssuePrice": 84.0,
+      "ListedOn": "2026-09-23T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "jindal-supreme-india",
    "companyName": "Jindal Supreme (India) Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "JSIPL",
    "bseScripCode": null,
@@ -11611,13 +11646,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-16",
    "issueEndDate": "2026-09-18",
-   "listingDate": null,
+   "listingDate": "2026-09-23",
    "priceBand": {
     "min": 88.0,
     "max": 93.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 93.0,
    "faceValue": 10.0,
    "lotSize": 161,
    "issueSize": {
@@ -11649,16 +11684,36 @@
       "htmSym": "jsipl",
       "ipoEndDate": "18-SEP-2026",
       "ipoStartDate": "16-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "    93",
       "linkRemovalDate": "19-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "23-SEP-2026",
       "priceRange": "Rs.88 to Rs.93",
-      "securityType": "EQ",
+      "securityType": "BE",
       "symbol": "JSIPL"
      },
      "detail": {
-      "companyName": "JSIPL",
-      "metaInfo": {},
+      "companyName": "Jindal Supreme (India) Limited",
+      "metaInfo": {
+       "symbol": "JSIPL",
+       "companyName": "Jindal Supreme (India) Limited",
+       "activeSeries": [
+        "BE"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1DLO01028",
+       "listingDate": "2026-09-23",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -12086,14 +12141,28 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": " JINDAL SUPREME (INDIA) LIMITED",
+      "Company_Short_Name": "JSIPL",
+      "IssuePrice": 93.0,
+      "ListedOn": "2026-09-23T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
    "id": "ss-retail",
    "companyName": "SS Retail Limited",
    "exchanges": [
-    "NSE"
+    "NSE",
+    "BSE"
    ],
    "symbol": "SSRETAIL",
    "bseScripCode": null,
@@ -12102,13 +12171,13 @@
    "issueType": "Book Building",
    "issueStartDate": "2026-09-16",
    "issueEndDate": "2026-09-18",
-   "listingDate": null,
+   "listingDate": "2026-09-23",
    "priceBand": {
     "min": 403.0,
     "max": 424.0,
     "currency": "INR"
    },
-   "issuePrice": null,
+   "issuePrice": 424.0,
    "faceValue": 10.0,
    "lotSize": 35,
    "issueSize": {
@@ -12142,16 +12211,36 @@
       "htmSym": "ssretail",
       "ipoEndDate": "18-SEP-2026",
       "ipoStartDate": "16-SEP-2026",
-      "issuePrice": "-",
+      "issuePrice": "   424",
       "linkRemovalDate": "19-SEP-2026",
-      "listingDate": "-",
+      "listingDate": "23-SEP-2026",
       "priceRange": "Rs.403 to Rs.424",
       "securityType": "EQ",
       "symbol": "SSRETAIL"
      },
      "detail": {
-      "companyName": "SSRETAIL",
-      "metaInfo": {},
+      "companyName": "SS Retail Limited",
+      "metaInfo": {
+       "symbol": "SSRETAIL",
+       "companyName": "SS Retail Limited",
+       "activeSeries": [
+        "EQ"
+       ],
+       "debtSeries": [],
+       "isFNOSec": false,
+       "isCASec": false,
+       "isSLBSec": false,
+       "isDebtSec": false,
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
+       "isETFSec": false,
+       "isDelisted": false,
+       "isin": "INE1EQW01028",
+       "listingDate": "2026-09-23",
+       "isMunicipalBond": false,
+       "isHybridSymbol": false,
+       "segment": "EQUITY"
+      },
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -12625,7 +12714,20 @@
       }
      }
     },
-    "bse": {}
+    "bse": {
+     "list": {
+      "CompanyName": "SS Retail Limited",
+      "Company_Short_Name": "SSRETAIL",
+      "IssuePrice": 424.0,
+      "ListedOn": "2026-09-23T00:00:00",
+      "ListingDayClose": null,
+      "ListingDayGain": null,
+      "CurrentPrice": null,
+      "GainLoss": null,
+      "Time": "2026-12-31T00:00:00",
+      "IMAGE": null
+     }
+    }
    }
   },
   {
@@ -20434,7 +20536,7 @@
        "companyName": "Rays of Belief Limited",
        "industry": "Hospital",
        "activeSeries": [
-        "BE"
+        "EQ"
        ],
        "debtSeries": [],
        "isFNOSec": false,
