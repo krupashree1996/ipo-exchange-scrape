@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T20:49:56Z",
+ "generatedAt": "2026-10-27T02:24:51Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -6899,16 +6899,16 @@
        "symbol": "RKFAL",
        "companyName": "R.K. Fashion Accessories Limited",
        "industry": "Gems Jewellery And Watches",
-       "activeSeries": [],
+       "activeSeries": [
+        "SM"
+       ],
        "debtSeries": [],
        "isFNOSec": false,
        "isCASec": false,
        "isSLBSec": false,
        "isDebtSec": false,
-       "isSuspended": true,
-       "tempSuspendedSeries": [
-        "ST"
-       ],
+       "isSuspended": false,
+       "tempSuspendedSeries": [],
        "isETFSec": false,
        "isDelisted": false,
        "isin": "INE2O2Y01016",
