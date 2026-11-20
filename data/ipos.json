@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T22:52:51Z",
+ "generatedAt": "2026-11-20T04:16:19Z",
  "sources": {
   "nse": {
    "ok": true,
@@ -40391,17 +40391,7 @@
     "JM Financial Limited & Motilal Oswal Investment Advisors Limited"
    ],
    "registrar": "MUFG Intime India Private Limited",
-   "subscription": {
-    "timesSubscribed": 105.77842609881105,
-    "sharesOffered": null,
-    "sharesBid": null,
-    "categories": {
-     "qib": 226.95952420212,
-     "nii": 121.4749263093788,
-     "retail": 30.983157559001004,
-     "employee": 21.14321339508372
-    }
-   },
+   "subscription": null,
    "urls": {
     "nse": "https://www.nseindia.com/market-data/issue-information?symbol=AUGMONT&series=EQ&type=Past",
     "bse": null
@@ -40421,29 +40411,8 @@
       "symbol": "AUGMONT"
      },
      "detail": {
-      "companyName": "Augmont Enterprises Limited",
-      "metaInfo": {
-       "symbol": "AUGMONT",
-       "companyName": "Augmont Enterprises Limited",
-       "industry": "Precious Metals",
-       "activeSeries": [
-        "EQ"
-       ],
-       "debtSeries": [],
-       "isFNOSec": false,
-       "isCASec": false,
-       "isSLBSec": false,
-       "isDebtSec": false,
-       "isSuspended": false,
-       "tempSuspendedSeries": [],
-       "isETFSec": false,
-       "isDelisted": false,
-       "isin": "INE16W401027",
-       "listingDate": "2026-08-31",
-       "isMunicipalBond": false,
-       "isHybridSymbol": false,
-       "segment": "EQUITY"
-      },
+      "companyName": "AUGMONT",
+      "metaInfo": {},
       "bidDetails": [
        {
         "category": "Qualified Institutional Buyers(QIBs)",
@@ -40755,165 +40724,7 @@
        "symbol": "AUGMONT"
       },
       "activeCat": {
-       "dataList": [
-        {
-         "category": "Category",
-         "noOfShareOffered": "No.of shares offered/reserved",
-         "noOfSharesBid": "No. of shares bid for",
-         "noOfTotalMeant": "No. of times of total meant for the category",
-         "srNo": "Sr.No."
-        },
-        {
-         "category": "Qualified Institutional Buyers(QIBs)",
-         "noOfShareOffered": "2189333",
-         "noOfSharesBid": "496889976",
-         "noOfTotalMeant": "226.95952420212",
-         "srNo": "1"
-        },
-        {
-         "category": "Foreign Institutional Investors(FIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "148965187",
-         "noOfTotalMeant": "",
-         "srNo": "1(a)"
-        },
-        {
-         "category": "Domestic Financial Institutions(Banks/ Financial Institutions(FIs)/ Insurance Companies)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "236634417",
-         "noOfTotalMeant": "",
-         "srNo": "1(b)"
-        },
-        {
-         "category": "Mutual funds",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "30203027",
-         "noOfTotalMeant": "",
-         "srNo": "1(c)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "81087345",
-         "noOfTotalMeant": "",
-         "srNo": "1(d)"
-        },
-        {
-         "category": "Non Institutional Investors",
-         "noOfShareOffered": "1642000",
-         "noOfSharesBid": "199461829",
-         "noOfTotalMeant": "121.4749263093788",
-         "srNo": "2"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Ten Lakh Rupees)",
-         "noOfShareOffered": "1094667",
-         "noOfSharesBid": "138939951",
-         "noOfTotalMeant": "126.92439892679691",
-         "srNo": "2.1"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "3004869",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "129717180",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "6217902",
-         "noOfTotalMeant": "",
-         "srNo": "2.1(c)"
-        },
-        {
-         "category": "Non Institutional Investors(Bid amount of more than Two Lakh Rupees upto Ten Lakh Rupees)",
-         "noOfShareOffered": "547333",
-         "noOfSharesBid": "60521878",
-         "noOfTotalMeant": "110.57597111813101",
-         "srNo": "2.2"
-        },
-        {
-         "category": "Corporates",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "207005",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(a)"
-        },
-        {
-         "category": "Individuals(Other than RIIs)",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "58099796",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(b)"
-        },
-        {
-         "category": "Others",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "2215077",
-         "noOfTotalMeant": "",
-         "srNo": "2.2(c)"
-        },
-        {
-         "category": "Retail Individual Investors(RIIs)",
-         "noOfShareOffered": "3831333",
-         "noOfSharesBid": "118706794",
-         "noOfTotalMeant": "30.983157559001004",
-         "srNo": "3"
-        },
-        {
-         "category": "Cut Off",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "101466916",
-         "noOfTotalMeant": "",
-         "srNo": "3(a)"
-        },
-        {
-         "category": "Price bids",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "17239878",
-         "noOfTotalMeant": "",
-         "srNo": "3(b)"
-        },
-        {
-         "category": "Employees",
-         "noOfShareOffered": "53333",
-         "noOfSharesBid": "1127631",
-         "noOfTotalMeant": "21.14321339508372",
-         "srNo": "4"
-        },
-        {
-         "category": "Cut Off",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "826272",
-         "noOfTotalMeant": "",
-         "srNo": "4(a)"
-        },
-        {
-         "category": "Price Bids",
-         "noOfShareOffered": "",
-         "noOfSharesBid": "301359",
-         "noOfTotalMeant": "",
-         "srNo": "4(b)"
-        },
-        {
-         "category": "Total",
-         "noOfShareOffered": "7715999.0",
-         "noOfSharesBid": "8.1618623E8",
-         "noOfTotalMeant": "105.77842609881105",
-         "srNo": null
-        }
-       ],
-       "heading": null,
-       "symbol": null,
-       "updateTime": "Updated as on 25-Aug-2026 19:00:00"
+       "msg": "error while fetching data"
       }
      }
     },
